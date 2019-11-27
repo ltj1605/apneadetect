@@ -1,0 +1,9 @@
+256, ECG Fs
+32, ACC Fs
+10, position detection sec on acc data
+0.3, position detect threshold on acc data
+60, feature epoch (sec)
+0.2525, threshold, low val --> high AHI estimation / high val --> low AHI estimation LD --> 0.2525 SVM -->0.1515
+480, smooth order for AH count algorithm / low val --> high AHI / high val --> high AHI / Fs x 15 sec
+800, count order for AH count algorithm / low val --> high AHI / high val --> high AHI / Fs x 25 sec / assume AH at every 25 sec
+0.2626, sleep wake optimal threshold

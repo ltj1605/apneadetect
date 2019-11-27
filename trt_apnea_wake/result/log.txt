@@ -1,0 +1,9 @@
+Artifact detection : startIdx : 0 finishIdx : 275
+Artifact detection : startIdx : 277 finishIdx : 347
+Artifact detection : startIdx : 349 finishIdx : 739
+Artifact detection : startIdx : 741 finishIdx : 749
+Feature Extraction : Finish
+Result : Total Sleep Time 122 Min 
+Result : Apnea & Hypopnea Count 5 Count
+Result : Apnea & Hypopnea Index 2.459016393442623 /Hour
+Result : Sleep Efficiency 97.6 %
